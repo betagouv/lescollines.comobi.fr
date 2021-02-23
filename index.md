@@ -17,7 +17,7 @@ layout: home
 
 Indiquez vos lieux de départ, d'arrivée et horaires habituels : pas de détour à faire ! Covoiturage régulier et/ou ponctuel : c'est vous qui choisissez.
 
-[Proposer mon trajet](https://docs.google.com/forms/d/e/1FAIpQLSfirgGZ4B_OnP3oe9q_CxMi3Lm5hpCyk_GSIdm9wtizvq3RMA/viewform){:target="_blank" .btn .proposal }
+[Proposer mon trajet](https://docs.google.com/forms/d/e/1FAIpQLSdwN7K0rTf6ywUoYuTwuarPq9-K_yGpRfuZXJP_He9tYL-rug/viewform?usp=sf_link){:target="_blank" .btn .proposal }
 ![Hero](/images/hero.png)
 
 <!-- section -->

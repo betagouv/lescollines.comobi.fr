@@ -1,0 +1,42 @@
+titre: "Neutre.CoMobi"
+mail: "comobi@beta.gouv.fr"
+tel: "04 00 00 00 00"
+nom: "Version Neutre"
+formulaire: "https://docs.google.com/forms/d/e/1FAIpQLSeuu6kNk8P7hn-5LbDGBoZE2toMKwwK3VCYCQmXpqO4yIlNbw/viewform?usp=sf_link"
+lien_cgu: "/cgu"
+
+couleurs: 
+  bouton_rechercher: "#199bb0"
+  bouton_proposer: "#22aa75"
+  odd_section_color: "#ecf0f1"
+  header_btn_section: "#c9d622"
+
+bandeau:
+  image: "/images/banniere-neutre.png"
+  texte: "Bandeau Neutre"
+
+## Les sections suivantes ne sont pas à modifier
+sass:
+  sass_dir: _sass
+  style: compressed
+
+code_source:
+  instance: https://github.com/betagouv/neutre.comobi.fr
+  comobi: https://github.com/betagouv/comobi
+
+
+exclude:
+  - direct/
+  - outil-metier/
+
+include:
+  - _config.yml 
+
+keep_files:
+  - _config.yml 
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
